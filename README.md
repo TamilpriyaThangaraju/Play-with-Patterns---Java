@@ -1,6 +1,8 @@
 # Play-with-Patterns---Java
 All possible patterns with numbers and stars.
 
+(View this readme.md as source blob)
+
 5x5 (axa) Square Star Matrix  - The Basic
 *****
 *****
