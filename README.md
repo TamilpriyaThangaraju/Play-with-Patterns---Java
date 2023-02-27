@@ -103,14 +103,14 @@ The full forms of the abbreviated file names (and class names) are given below w
    12
     1
     
-15/ LACNP -Left Aligned Natural Number Pyramid
+15/ LANNP -Left Aligned Natural Number Pyramid
 1
 23
 456
 78910
 1112131415
 
-16/ LACNPI -Left Aligned Natural Number Pyramid Inverse
+16/ LANNPI -Left Aligned Natural Number Pyramid Inverse
 1514131211
 10987
 654
